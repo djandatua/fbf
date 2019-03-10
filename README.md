@@ -27,3 +27,6 @@ Ubuntu
 - python setup.py install
 - cd ..
 - python2 fbf.py
+
+Note:
+Brute Force No. 1 Not Work
